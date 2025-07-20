@@ -1,5 +1,5 @@
 
-# Mimes Subnautica Mods
+# Mimes Subnautica Mods(2.0)
 [![Mimes](https://forums.nexusmods.com/uploads/profile/photo-thumb-437899.jpg?r_=1608813554 "Mimes")](https://forums.nexusmods.com/uploads/profile/photo-thumb-437899.jpg?r_=1608813554 "Mimes")
 
 ------------

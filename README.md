@@ -6,10 +6,11 @@
 
 
 ### Better HUD Info v 1.1.3 (2.0)
-
+Bugfixes: Fixed Scanner not locking on targets Fixed Hud And Text 
 
 Dive into unknown seas with full HUD info at your fingertips. See base hull strength, time, Biome, temperature and more in real time. Customise and use only what you need.
 
+[BetterHUDInfo Download](https://github.com/user-attachments/files/21334158/BetterHUDInfo.zip)
 
 
 [![Better HUD Info 1.1.1 ](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/BetterHUDInfo-1.1.1.png?raw=true "Better HUD Info 1.1.1 ")](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/BetterHUDInfo-1.1.1.png?raw=true "Better HUD Info 1.1.1 ")
@@ -31,7 +32,8 @@ Version 1.1.0:
 
 ### Extra Tabs (2.0)
 
-
+[ExtraTabs Download](https://github.com/user-attachments/files/21334170/ExtraTabs.zip)
+BugFixes: fixed tabs that had the same name making them not show up.
 
 This mod is more of a mod for my personal use rather than a mod to be used by many players. It is included here in case some finds it useful. I felt a need to organise menus in Fabricator and Workbench to be more manageable and easier to view and use. I play Subnautica with 145 mods which made these menus very hard to use. This mod requires CustomCrasft2SML mod.
 
@@ -49,7 +51,8 @@ One can also slightly modify other mods to move their tabs into newly created su
 
 ### Immersive Outcrop Break (Legacy)
 
-[
+[ImmersiveOutcropBreak Download](https://github.com/user-attachments/files/21334179/ImmersiveOutcropBreak.zip)
+Bugfixes: Fixed Text Hints 
 
 This mod aims at improving immersion in  Subnautica. Many, many thanks go to Metious, who tirelessly helped me out with the 3D side of things. Outcrops are now unable to be broken by bare hands. They can be broken by tools (as per vanilla) or if a player has (any) gloves equipped. With this mod there is no more clink sound on outcrop with bare hands, which sounded a bit odd. Gloves for braking outcrops are made of Titanium so clink sound when bashing outcrops is to be expected. With this mod, player can also make a Glove Chip, which project on HUD storage metrics, such as inventory size or free inventory slots left. Glove Chips and Advanced Outcrop Gloves now help with breaking outcrops, to the point where with most advanced equipment outcrops are broken and ores are picked up automatically, without a single click - let those clickety fingers rest while you collect all the goodies.
 
@@ -62,17 +65,25 @@ This mod aims at improving immersion in  Subnautica. Many, many thanks go to Met
 
 ### Moonpool Display and Repair (2.0)
 
+[MoonpoolDisplayRepair Download](https://github.com/user-attachments/files/21334181/MoonpoolDisplayRepair.zip)
 
 Improve your Moonpool. At a glance check your vehicle cell capacity, charge and health. See your base hull strength before using Habitat Builder. Let Moonpool charge & fix your subs. Version 1.0.3 was rewritten, it has charging and repairs reporting improvements and a number of logic fixes.
-
+Upgrades mostly just upgraded to bepinex
 [![Moonpool Display and Repair](https://staticdelivery.nexusmods.com/mods/1155/images/628/628-1609163475-1928385286.png "Moonpool Display and Repair")](https://staticdelivery.nexusmods.com/mods/1155/images/628/628-1609163475-1928385286.png "Moonpool Display and Repair")
 
 ------------
 
 
-### More Chip Slots (2.0)
+### More Chip Slots (2.0)(Aka TooManySlots)
 
-
+[MoreChipSlots Download](https://github.com/user-attachments/files/21334184/MoreChipSlots.zip)
+Notes : make sure you have this active first then SlotExtender and enable 4 ,6 or 8 slots first
+Upgrades 
+Added more Slots for the player
+Body
+Flippers 
+Head 
+Gloves 
 
 This simple mod adds up to 6 extra Chip slots in the PDA. Players can now use up to 8 items requiring a module inserted into the Chip slot simultaneously. Extra number of chip slots is configurable.
 
@@ -85,9 +96,12 @@ This simple mod adds up to 6 extra Chip slots in the PDA. Players can now use up
 
 ### Oxygen Audio Monitor (2.0)
 
+[OxygenAudioMonitor Download](https://github.com/user-attachments/files/21334186/OxygenAudioMonitor.zip)
 
 
 Oxygen Audio Monitor Chip uses Stalker sounds coded in their tooth DNA, which it converts to warning messages for O2 levels at 50, 25, 10%, and 30s of O2 left. This mod is compatible with Scuba Mainfold mod.
+
+BugFixes : upgraded icons with backgrounds to make it look better fixed hud and text
 
 [![OxygenAudioMonitor](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/OxygenAudioMonitor-01.png?raw=true "OxygenAudioMonitor")](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/OxygenAudioMonitor-01.png?raw=true "OxygenAudioMonitor")
 
@@ -99,7 +113,7 @@ Oxygen Audio Monitor Chip uses Stalker sounds coded in their tooth DNA, which it
 ### Oxygen Canisters (2.0)
 ### Idea and parts of code misappropriated (with permission), added cool graphics, skins, lore logic and a chip, and converted to Subnautica Legacy from the original mod by Ramune
 
-
+Gonna Be Worked on Soooon
 
 Technology to fabricate oxygen canisters is unlocked by acquiring a fragment from Oxygen producing Brain Coral. It is a disposable canister providing player with 35 seconds of additional Oxygen. Canister is made out of Titanium and Fiber Mesh, together with Oxygen rich Brain Coral Piece. Oxygen Canister Monitor Chip projects Oxygen canister count and other canister information onto HUD. Quick consume key is now configurable.
 This mod will not display messages suspecting player pirated the game, (unlike the original exclusive for BepInEx mod) which tries to "guess" if a player purchased or pirated Subnautica.
@@ -114,9 +128,11 @@ This mod will not display messages suspecting player pirated the game, (unlike t
 
 ### Oxygen Tank Monitor (2.0)
 
+[OxygenTankMonitor Download](https://github.com/user-attachments/files/21334188/OxygenTankMonitor.zip)
 
 
 Oxygen Tank Monitor enables detailed monitoring of Oxygen tank status in HUD as well as enable a snorkel mode, which allows breathing via snorkel and ensures constant swimming depth with free look at an ocean floor below - just like real snorkeling. It is fully Scuba Mainfold compatible.
+BugFixes : upgraded icons with backgrounds to make it look better fixed hud and text
 
 [![OxygenTankMonitor](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/OxygenTankMonitor-01.png?raw=true "OxygenCanisters")](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/OxygenTankMonitor-01.png?raw=true "OxygenTankMonitor")
 
@@ -131,15 +147,18 @@ Oxygen Tank Monitor enables detailed monitoring of Oxygen tank status in HUD as 
 
 ### Seamoth Enhancement System (2.0)
 
+[SeamothEnhancementSystem Download](https://github.com/user-attachments/files/21334190/SeamothEnhancementSystem.zip)
 
 Enhance your Seamoth with Lo & Hi beam Headlights, in-cabin Battery Management, Turbo mode, Cruise Control, Gears and Speedometer. This is the last version without the Safety Enhancements.
-
+Bugfixes: fixed all the hud and Text items 
 [![Seamoth Enhancement System](https://staticdelivery.nexusmods.com/mods/1155/images/717/717-1617966280-1962023812.png "Seamoth Enhancement System")](https://staticdelivery.nexusmods.com/mods/1155/images/717/717-1617966280-1962023812.png "Seamoth Enhancement System")
 
 ------------
 
 ### Tools Flash Light (2.0)
 
+[ToolsFlashLight Download](https://github.com/user-attachments/files/21334196/ToolsFlashLight.zip)
+Bugfixes: fixed the BuilderTools Flashlight and Button Hint text.
 
 With a help of a corresponding Tool Light Chip you can enable tiny LED light mounted at the front of each tool in Subnautica. It even lets you to zoom light beam in and out, just like the real flashlight.
 
